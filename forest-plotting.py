@@ -50,8 +50,8 @@ plt.title('A set of 25 Genes (Sorted by oe_lof)')
 plt.grid(True, which='both', linestyle='--', linewidth=0.5)
 plt.tight_layout()
 
-# Save the plot as a file
+# save the plot as a file
 plt.savefig('oe_lof_plot_sorted.png')
 
-# Display the plot
+# display the plot
 plt.show()
